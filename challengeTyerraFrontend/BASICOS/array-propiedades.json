@@ -1,0 +1,389 @@
+﻿[
+{
+    "_id" : "613a3550a96deb0fc812a50a",
+    "bathroom" : {
+        "completos" : {
+            "cantidadCompletos" : 0,
+            "dobleLavabo" : 2,
+            "tina" : 0,
+            "regadera" : 3
+        },
+        "medios" : 1
+    },
+    "cuotas" : {
+        "tipoCuotas" : {
+            "typeCuotas" : "Matenimiento",
+            "monto" : 32441,
+            "recurrencia" : "Mensual"
+        }
+    },
+    "estacionamiento" : {
+        "tieneEstacionamiento" : false
+    },
+    "jardin" : {
+        "tipoJardin" : {
+            "typeJardin" : "Jardin trasero",
+            "m2Jardin" : 131,
+            "riego" : true,
+            "iluminacion" : true
+        },
+        "tieneJardin" : true
+    },
+    "terraza" : {
+        "sombra" : {
+            "m2Sombra" : 1
+        },
+        "tieneTerraza" : true,
+        "m2Terraza" : 6
+    },
+    "ubicacion" : {
+        "direccionPropiedad" : {
+            "ciudad" : "María de Jesússhire",
+            "codigoPostal" : 85204,
+            "direccion" : "Southwest",
+            "estado" : "Colima",
+            "municipio" : "Cambridgeshire",
+            "nombreCalle" : "Solís Urbanización",
+            "numeroLote" : 58142,
+            "numeroExterior" : 14,
+            "numeroInterior" : 24,
+            "pais" : "Guinea"
+        },
+        "localizacion" : {
+            "lat" : "67.8058",
+            "lon" : "-44.4912"
+        }
+    },
+    "amenidades" : {
+        "aireAcondicionado" : {
+            "tieneAire" : false,
+            "cantidadAires" : 6,
+            "aireCentral" : true,
+            "numCuartosAire" : 0
+        },
+        "seguridad" : {
+            "tieneSeguridad" : true,
+            "camaras" : false,
+            "cantidadCamaras" : 6,
+            "vigilancia" : true
+        },
+        "panelSolar" : false
+    },
+    "system" : {
+        "usuarioVendedor" : {
+            "documentos" : [],
+            "nombreUsuario" : "Sara",
+            "idUsuario" : "613a2bdba96deb0fc812a396",
+            "relacionValida" : true,
+            "relacionActiva" : true
+        },
+        "numInmuebles" : 1,
+        "estadoVenta" : true,
+        "estadoRenta" : false,
+        "estadoSystem" : "Anunciada",
+        "activa" : false
+    },
+    "caracteristicasExtra" : [],
+    "piscina" : {
+        "tienePiscina" : false
+    },
+    "nombre" : "Fideicomisario Cencerrear Ficoideo",
+    "precio" : 10088,
+    "m2Terreno" : 48835,
+    "m2Construccion" : 63101,
+    "dormitorios" : 8575,
+    "tipoPropiedad" : "Casa",
+    "niveles" : "1",
+    "renovaciones" : [],
+    "__v" : 0,
+    "createdAt" : "2021-09-09T16:24:49.039Z",
+    "updatedAt" : "2021-09-09T16:24:49.039Z"
+},
+{
+    "_id" : "613a3550a96deb0fc812a50b",
+    "bathroom" : {
+        "completos" : {
+            "cantidadCompletos" : 3,
+            "dobleLavabo" : 2,
+            "tina" : 1,
+            "regadera" : 3
+        },
+        "medios" : 0
+    },
+    "estacionamiento" : {
+        "tieneEstacionamiento" : true
+    },
+    "jardin" : {
+        "tieneJardin" : false
+    },
+    "terraza" : {
+        "sombra" : {
+            "m2Sombra" : 9
+        },
+        "tieneTerraza" : false,
+        "m2Terraza" : 17
+    },
+    "ubicacion" : {
+        "direccionPropiedad" : {
+            "ciudad" : "Hidalgo del Parral Monserratport",
+            "codigoPostal" : 7299,
+            "direccion" : "Northeast",
+            "estado" : "Baja California Norte",
+            "municipio" : "Cambridgeshire",
+            "nombreCalle" : "Prieto Mercado",
+            "numeroLote" : 1077,
+            "numeroExterior" : 14,
+            "numeroInterior" : 6,
+            "pais" : "Groenlandia"
+        },
+        "localizacion" : {
+            "lat" : "86.0079",
+            "lon" : "85.6677"
+        }
+    },
+    "amenidades" : {
+        "aireAcondicionado" : {
+            "tieneAire" : false,
+            "cantidadAires" : 3,
+            "aireCentral" : false,
+            "numCuartosAire" : 2
+        },
+        "seguridad" : {
+            "tieneSeguridad" : false,
+            "camaras" : true,
+            "cantidadCamaras" : 3,
+            "vigilancia" : true
+        },
+        "panelSolar" : true
+    },
+    "system" : {
+        "usuarioVendedor" : {
+            "documentos" : [],
+            "nombreUsuario" : "Juana",
+            "idUsuario" : "613a2bdba96deb0fc812a397",
+            "relacionValida" : false,
+            "relacionActiva" : true
+        },
+        "numInmuebles" : 1,
+        "estadoVenta" : true,
+        "estadoRenta" : false,
+        "estadoSystem" : "Anunciada",
+        "activa" : true
+    },
+    "caracteristicasExtra" : [],
+    "piscina" : {
+        "tienePiscina" : false
+    },
+    "nombre" : "Batallón General Fideicomisario",
+    "precio" : 74940,
+    "m2Terreno" : 51305,
+    "m2Construccion" : 14385,
+    "dormitorios" : 72980,
+    "tipoPropiedad" : "Casa",
+    "niveles" : "0",
+    "renovaciones" : [],
+    "__v" : 0,
+    "createdAt" : "2021-09-09T16:24:49.040Z",
+    "updatedAt" : "2021-09-09T16:24:49.040Z"
+},
+{
+    "_id" : "613a3550a96deb0fc812a514",
+    "bathroom" : {
+        "completos" : {
+            "cantidadCompletos" : 3,
+            "dobleLavabo" : 2,
+            "tina" : 2,
+            "regadera" : 2
+        },
+        "medios" : 1
+    },
+    "cuotas" : {
+        "tipoCuotas" : {
+            "typeCuotas" : "Matenimiento",
+            "monto" : 23884,
+            "recurrencia" : "Mensual"
+        }
+    },
+    "estacionamiento" : {
+        "tieneEstacionamiento" : true
+    },
+    "jardin" : {
+        "tieneJardin" : false
+    },
+    "terraza" : {
+        "sombra" : {
+            "m2Sombra" : 12
+        },
+        "tieneTerraza" : false,
+        "m2Terraza" : 13
+    },
+    "ubicacion" : {
+        "direccionPropiedad" : {
+            "ciudad" : "Ciudad de México Mayte",
+            "codigoPostal" : 40488,
+            "direccion" : "East",
+            "estado" : "Jalisco",
+            "municipio" : "Cambridgeshire",
+            "nombreCalle" : "Granados Senda",
+            "numeroLote" : 81975,
+            "numeroExterior" : 10,
+            "numeroInterior" : 28,
+            "pais" : "Andorra"
+        },
+        "localizacion" : {
+            "lat" : "-69.1117",
+            "lon" : "-83.3565"
+        }
+    },
+    "amenidades" : {
+        "aireAcondicionado" : {
+            "tieneAire" : true,
+            "cantidadAires" : 3,
+            "aireCentral" : false,
+            "numCuartosAire" : 6
+        },
+        "seguridad" : {
+            "tieneSeguridad" : true,
+            "camaras" : false,
+            "cantidadCamaras" : 7,
+            "vigilancia" : false
+        },
+        "panelSolar" : true
+    },
+    "system" : {
+        "usuarioVendedor" : {
+            "documentos" : [],
+            "nombreUsuario" : "María Eugenia",
+            "idUsuario" : "613a2bdba96deb0fc812a3a0",
+            "relacionValida" : false,
+            "relacionActiva" : true
+        },
+        "numInmuebles" : 1,
+        "estadoVenta" : true,
+        "estadoRenta" : true,
+        "estadoSystem" : "Anunciada",
+        "activa" : false
+    },
+    "caracteristicasExtra" : [],
+    "piscina" : {
+        "tienePiscina" : true,
+        "m2Piscina" : 32,
+        "profundidad" : 8,
+        "forma" : "Cuadrado",
+        "typePiscina" : "In ground",
+        "calefaccion" : false,
+        "filtracion" : "Filtro tradicional"
+    },
+    "nombre" : "Ceneque Increado Engargolar",
+    "precio" : 91305,
+    "m2Terreno" : 22763,
+    "m2Construccion" : 18241,
+    "dormitorios" : 59200,
+    "tipoPropiedad" : "Casa",
+    "niveles" : "3",
+    "renovaciones" : [],
+    "__v" : 0,
+    "createdAt" : "2021-09-09T16:24:49.042Z",
+    "updatedAt" : "2021-09-09T16:24:49.042Z"
+},
+{
+    "_id" : "613a3550a96deb0fc812a537",
+    "bathroom" : {
+        "completos" : {
+            "cantidadCompletos" : 2,
+            "dobleLavabo" : 0,
+            "tina" : 1,
+            "regadera" : 0
+        },
+        "medios" : 0
+    },
+    "cuotas" : {
+        "tipoCuotas" : {
+            "typeCuotas" : "Matenimiento",
+            "monto" : 82770,
+            "recurrencia" : "Mensual"
+        }
+    },
+    "estacionamiento" : {
+        "tieneEstacionamiento" : true
+    },
+    "jardin" : {
+        "tipoJardin" : {
+            "typeJardin" : "Jardin trasero",
+            "m2Jardin" : 77,
+            "riego" : false,
+            "iluminacion" : false
+        },
+        "tieneJardin" : true
+    },
+    "terraza" : {
+        "sombra" : {
+            "m2Sombra" : 13
+        },
+        "tieneTerraza" : true,
+        "m2Terraza" : 8
+    },
+    "ubicacion" : {
+        "direccionPropiedad" : {
+            "ciudad" : "Moralesstad",
+            "codigoPostal" : 99544,
+            "direccion" : "West",
+            "estado" : "Tabasco",
+            "municipio" : "Berkshire",
+            "nombreCalle" : "Cristian Caserio",
+            "numeroLote" : 39832,
+            "numeroExterior" : 26,
+            "numeroInterior" : 23,
+            "pais" : "República Checa"
+        },
+        "localizacion" : {
+            "lat" : "-49.3513",
+            "lon" : "140.0702"
+        }
+    },
+    "amenidades" : {
+        "aireAcondicionado" : {
+            "tieneAire" : true,
+            "cantidadAires" : 8,
+            "aireCentral" : false,
+            "numCuartosAire" : 2
+        },
+        "seguridad" : {
+            "tieneSeguridad" : true,
+            "camaras" : true,
+            "cantidadCamaras" : 5,
+            "vigilancia" : false
+        },
+        "panelSolar" : true
+    },
+    "system" : {
+        "usuarioVendedor" : {
+            "documentos" : [],
+            "nombreUsuario" : "Sancho",
+            "idUsuario" : "613a2bdba96deb0fc812a3c3",
+            "relacionValida" : false,
+            "relacionActiva" : true
+        },
+        "numInmuebles" : 1,
+        "estadoVenta" : true,
+        "estadoRenta" : false,
+        "estadoSystem" : "Anunciada",
+        "activa" : true
+    },
+    "caracteristicasExtra" : [],
+    "piscina" : {
+        "tienePiscina" : false
+    },
+    "nombre" : "Descentrado Fichero Cendolilla",
+    "precio" : 62675,
+    "m2Terreno" : 76674,
+    "m2Construccion" : 72743,
+    "dormitorios" : 2392,
+    "tipoPropiedad" : "Casa",
+    "niveles" : "0",
+    "renovaciones" : [],
+    "__v" : 0,
+    "createdAt" : "2021-09-09T16:24:49.051Z",
+    "updatedAt" : "2021-09-09T16:24:49.051Z"
+}
+]
